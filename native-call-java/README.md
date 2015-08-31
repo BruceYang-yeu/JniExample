@@ -5,3 +5,6 @@ gcc     -I/home/ywm/ProgramFiles/jdk1.6.0_45/include/ -I/home/ywm/ProgramFiles/j
 LD_LIBRARY_PATH=/home/ywm/ProgramFiles/jdk1.6.0_45/jre/lib/amd64/server ./a.out 
 
 
+Reference By: http://stackoverflow.com/questions/16860021/undefined-reference-to-jni-createjavavm-linux
+
+
